@@ -1,0 +1,3 @@
+# 强制统一换行符
+* text=auto eol=lf
+*.{cmd,[cC][mM][dD]} text eol=crlf
