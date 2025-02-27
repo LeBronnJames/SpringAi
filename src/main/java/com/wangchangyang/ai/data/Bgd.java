@@ -1,4 +1,4 @@
-package com.ddit.saas.ai.data;
+package com.wangchangyang.ai.data;
 
 import java.time.LocalDate;
 

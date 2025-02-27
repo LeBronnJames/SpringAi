@@ -1,6 +1,6 @@
-package com.ddit.saas.ai.client;
+package com.wangchangyang.ai.client;
 
-import com.ddit.saas.ai.services.CustomerSupportAssistant;
+import com.wangchangyang.ai.services.CustomerSupportAssistant;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

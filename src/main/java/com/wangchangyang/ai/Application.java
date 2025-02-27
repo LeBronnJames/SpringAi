@@ -1,4 +1,4 @@
-package com.ddit.saas.ai;
+package com.wangchangyang.ai;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

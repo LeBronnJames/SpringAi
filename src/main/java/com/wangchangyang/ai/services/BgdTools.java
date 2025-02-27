@@ -1,9 +1,9 @@
-package com.ddit.saas.ai.services;
+package com.wangchangyang.ai.services;
 
 import java.time.LocalDate;
 import java.util.function.Function;
 
-import com.ddit.saas.ai.data.Jgzt;
+import com.wangchangyang.ai.data.Jgzt;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import org.slf4j.Logger;

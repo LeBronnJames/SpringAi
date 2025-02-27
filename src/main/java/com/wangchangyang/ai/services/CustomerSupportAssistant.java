@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ddit.saas.ai.services;
+package com.wangchangyang.ai.services;
 
 import java.time.LocalDate;
 

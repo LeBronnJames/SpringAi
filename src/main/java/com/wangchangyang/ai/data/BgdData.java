@@ -1,4 +1,4 @@
-package com.ddit.saas.ai.data;
+package com.wangchangyang.ai.data;
 
 import java.util.ArrayList;
 import java.util.List;

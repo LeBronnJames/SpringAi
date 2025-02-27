@@ -1,7 +1,7 @@
-package com.ddit.saas.ai.services;
+package com.wangchangyang.ai.services;
 
-import com.ddit.saas.ai.data.*;
-import com.ddit.saas.ai.services.BgdTools.BgdDetails;
+import com.wangchangyang.ai.data.*;
+import com.wangchangyang.ai.services.BgdTools.BgdDetails;
 import io.micrometer.common.util.StringUtils;
 import org.springframework.stereotype.Service;
 

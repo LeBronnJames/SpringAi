@@ -1,4 +1,4 @@
 @NonNullApi
-package com.ddit.saas.ai.services;
+package com.wangchangyang.ai.services;
 
 import org.springframework.lang.NonNullApi;

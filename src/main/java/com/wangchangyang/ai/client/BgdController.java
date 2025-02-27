@@ -1,7 +1,7 @@
-package com.ddit.saas.ai.client;
+package com.wangchangyang.ai.client;
 
-import com.ddit.saas.ai.services.BgdTools.BgdDetails;
-import com.ddit.saas.ai.services.BgdService;
+import com.wangchangyang.ai.services.BgdTools.BgdDetails;
+import com.wangchangyang.ai.services.BgdService;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
